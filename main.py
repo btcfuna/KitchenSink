@@ -2,7 +2,6 @@ import os
 import sys
 from pathlib import Path
 from kivy.core.window import Window
-
 from kivymd.app import MDApp
 
 from View.ManagerScreen.manager_screen import ManagerScreen
